@@ -1,3 +1,5 @@
+# feito com auxilio de IA (Gemini)
+
 import random
 import numpy as np
 
