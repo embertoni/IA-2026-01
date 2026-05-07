@@ -1,5 +1,4 @@
 # código gerado por IA (Gemini)
-
 import numpy as np
 import math
 import sys
