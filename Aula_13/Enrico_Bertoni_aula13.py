@@ -1,5 +1,5 @@
 # código feito com auxílio de IA (Gemini)
-# dataset importados seguindo o formato explicado pelo site do link de download
+# dataset importado seguindo instruções de: https://archive.ics.uci.edu/dataset/109/wine
 
 from ucimlrepo import fetch_ucirepo
 import pandas as pd
